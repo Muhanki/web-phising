@@ -2,9 +2,7 @@
 
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Halaman Penipuan :)</title>
-</head>
+
 <body>
     <h1>Selamat, Anda mendapatkan hadiah! Mohon tunggu...</h1>
    
